@@ -1,0 +1,8 @@
+C:\New folder\Task 1\Part4\Part4\Part4\obj\Debug\Part4.csproj.AssemblyReference.cache
+C:\New folder\Task 1\Part4\Part4\Part4\obj\Debug\Part4.csproj.SuggestedBindingRedirects.cache
+C:\New folder\Task 1\Part4\Part4\Part4\obj\Debug\Part4.csproj.CoreCompileInputs.cache
+C:\New folder\Task 1\Part4\Part4\Part4\bin\Debug\Part4.exe.config
+C:\New folder\Task 1\Part4\Part4\Part4\bin\Debug\Part4.exe
+C:\New folder\Task 1\Part4\Part4\Part4\bin\Debug\Part4.pdb
+C:\New folder\Task 1\Part4\Part4\Part4\obj\Debug\Part4.exe
+C:\New folder\Task 1\Part4\Part4\Part4\obj\Debug\Part4.pdb
